@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: grey;
+  height: 50vh;
+  position: relative;
+}
+
+#stick-one {
+  width: 150px;
+  background-color: red;
+  height: 15px;
+  position: absolute;
+  bottom: 0;
+}
